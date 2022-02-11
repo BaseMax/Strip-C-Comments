@@ -1,5 +1,6 @@
 /*
  * Name: Strip C Comments
+ * Description: A C program to strip comments from a c file and output the result to a new file.
  * Date: 2022-02-11
  * Author: Max Base
  * Repository: https://github.com/BaseMax/Strip-C-Comments
