@@ -33,6 +33,6 @@ And maybe sometime you need to write the result in another or same file:
 
 ### TODO
 
-- Add Makefile or CMake
+- Add Makefile or CMake (to set `strip_comments` in /user/bin/)
 
 © Copyright Max Base, 2022
