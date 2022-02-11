@@ -31,4 +31,8 @@ And maybe sometime you need to write the result in another or same file:
 ./strip_comments StripComments.c StripComments.nocomments.c
 ```
 
+### TODO
+
+- Add Makefile or CMake
+
 © Copyright Max Base, 2022
