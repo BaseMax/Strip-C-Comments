@@ -150,5 +150,7 @@ int main(int argc, char** argv)
         printf("%s", data);
     }
 
+    free(data);
+
     return 0;
 }
