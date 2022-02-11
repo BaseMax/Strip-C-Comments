@@ -35,4 +35,6 @@ And maybe sometime you need to write the result in another or same file:
 
 - Add Makefile or CMake (to set `strip_comments` in /user/bin/)
 
+Anyone welcome to do contribute or extend the program to support **Python** comments too. (With a flag)
+
 © Copyright Max Base, 2022
